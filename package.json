@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Projeto inicio",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedropalmadev/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Pedro de Abreu Palma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedropalmadev/nodejs/issues"
+  },
+  "homepage": "https://github.com/pedropalmadev/nodejs#readme"
+}
